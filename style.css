@@ -1,0 +1,61 @@
+body{
+ background-image: url("image/gal.jpg");
+  color: white
+}
+.pgp{
+	font-family: Tomorrow,sans-serif;
+	font-size: 50px;
+ color:white;
+ text-align: center;
+ }
+.marlo{
+ font-family: Tomorrow,sans-serif;
+ font-size: 35px;
+ text-align: center;
+ text-decoration: underline;
+}
+.zizou{
+	font-family: Tomorrow,sans-serif;
+	font-size: 35px;
+	text-align: center;
+	text-decoration: underline;
+}
+.a{
+	font-family: 'Peralta', cursive;
+	font-size: 25px;
+	text-align: center;
+	color: white
+}
+.mario{
+	font-family: 'Tomorrow',sans-serif;
+	font-size: 35px;
+	text-align: center;
+	text-decoration: underline;
+}
+.b{
+	font-family: 'Peralta',cursive;
+	font-size: 25px;
+	text-align: center;
+	color: white
+}
+.sinan{
+	font-family: 'Tomorrow',sans-serif;
+	font-size: 35px;
+	text-align:center;
+	text-decoration: underline;
+}
+.c{
+	font-family: 'Peralta',cursive;
+	font-size: 25px;
+	text-align: center;
+	color: white
+}
+.poupy{
+	font-family: 'Tomorrow',sans-serif;
+	font-size: 35px;
+	text-align: center;
+	text-decoration: center;
+}
+.angela{
+	text-align: center;
+}
